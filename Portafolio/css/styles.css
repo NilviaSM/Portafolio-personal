@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+#h1 {
+    text-transform: uppercase; color: #232323;
+}
+
+#portada {
+    height: 100vh;
+}
+
+#portada p {
+    font-size: 2.5em;
+    color:lightblue;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+#acerca-de-mi p {
+    text-align: justify;
+}
+
+.fab{
+    font-size: 3em;
+    margin: 0.5em;
+}
+.fa{
+    font-size: 2em;
+    margin: 0 .5em;
+}
+
+.fa-java{
+    color:red;
+
+}
+
+.fa-js{
+    color:yellow ;
+
+}
+
+.fa-php{
+    color:rgb(55, 66, 214);
+
+}
+
+.fa-html5{
+    color:orange ;
+
+}
+
+.fa-css3-alt{
+    color:rgb(32, 51, 160) ;
+
+}
+
+.fa-database{
+    color: red;
+}
